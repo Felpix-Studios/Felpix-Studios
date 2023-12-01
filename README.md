@@ -2,7 +2,7 @@
 <h3 align="center">A student and developer with an interest in the web and PPE</h3>
 
 - 🔭 I’m currently learning SvelteKit, D3, and data science
-- 📝 I write articles on [felpix.com](felpix.com)
+- 📝 I write articles on [felpix.com](https://felpix.com)
 - 📫 How to reach me: [hi@felpix.com](mailto:hi@felpix.com)
 
 <!---
