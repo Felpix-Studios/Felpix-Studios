@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm felpix.</h1>
 <h3 align="center">i do side quests.</h3>
 
-- 🔭 we're so back with builder culture @ ucsb, [buildspace](https://buildspace.so), [socratica](https://socratica.info)
+- 🔭 reading books (political science and philosophy) @duke
 - 📝 writing essays on life, philosophy, and politics
 - 📫 dm me on twitter @[felpix_](https://twitter.com/felpix_)
 
