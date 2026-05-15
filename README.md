@@ -1,9 +1,9 @@
-<h1 align="center">hi, i'm felpix.</h1>
-<h3 align="center">i do side quests.</h3>
+<h3 align="center">writing in solitude for summer 2026</h3>
+<h3 align="center">a j*bless and vibe coding time in my life</h3>
 
-- 🔭 reading books (political science and philosophy) @duke
-- 📝 writing essays on life, philosophy, and politics
-- 📫 dm me on twitter @[felpix_](https://twitter.com/felpix_)
+- political science, philosophy, and math @ duke
+- miscellaneous essays on my [substack](https://nonpublicpolicy.substack.com)
+- most active on x: [@felpix_](https://twitter.com/felpix_)
 
 <!---
 Felpix-Studios/Felpix-Studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
