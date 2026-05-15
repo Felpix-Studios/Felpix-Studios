@@ -1,9 +1,11 @@
-<h3 align="center">writing in solitude for summer 2026</h3>
-<h3 align="center">a j*bless and vibe coding time in my life</h3>
+writing in solitude for summer 2026. a j*bless and vibe coding time in my life.
 
-- political science, philosophy, and math @ duke
-- miscellaneous essays on my [substack](https://nonpublicpolicy.substack.com)
-- most active on x: [@felpix_](https://twitter.com/felpix_)
+read my [essays](https://nonpublicpolicy.substack.com) and find me on [x](https://twitter.com/felpix_).
+
+### current projects
+- **[social science research](https://github.com/Felpix-Studios/social-science-research)** — a claude code plugin for all your social science research needs
+- **auto-research** — a wrapper for AI agents in social science research
+- and more... 
 
 <!---
 Felpix-Studios/Felpix-Studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
