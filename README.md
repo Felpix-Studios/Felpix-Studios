@@ -3,8 +3,8 @@ writing in solitude for summer 2026. a j*bless and vibe coding time in my life.
 read my [essays](https://nonpublicpolicy.substack.com) and find me on [x](https://twitter.com/felpix_).
 
 ### current projects
-- **[forage](https://github.com/Felpix-Studios/forage)** — a local-first macos storage browser that always knows folder sizes
 - **[social science research](https://github.com/Felpix-Studios/social-science-research)** — a claude code plugin for all your social science research needs
+- **[forage](https://github.com/Felpix-Studios/forage)** — a local-first macos storage browser that always knows folder sizes
 - **auto-research** — a wrapper for AI agents in social science research
 - and more... 
 
