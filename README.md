@@ -5,8 +5,8 @@ read my [essays](https://nonpublicpolicy.substack.com) and find me on [x](https:
 ### current projects
 - **[social science research](https://github.com/Felpix-Studios/social-science-research)** — a claude code plugin for all your social science research needs
 - **[auto-research](https://github.com/Felpix-Studios/auto-research)** — a wrapper for AI agents in social science research
-- **[polls.felpix.com](https://polls.felpix.com)** - aggregate polling data for US elections
-- **extend-bench** - WIP engine for agentic paper replication
+- **[polls.felpix.com](https://polls.felpix.com)** — aggregate polling data for US elections
+- **extend-bench** — WIP engine for agentic paper replication
 - and more... 
 
 <!---
