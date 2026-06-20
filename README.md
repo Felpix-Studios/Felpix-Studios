@@ -4,8 +4,9 @@ read my [essays](https://nonpublicpolicy.substack.com) and find me on [x](https:
 
 ### current projects
 - **[social science research](https://github.com/Felpix-Studios/social-science-research)** — a claude code plugin for all your social science research needs
-- **[forage](https://github.com/Felpix-Studios/forage)** — a local-first macos storage browser that always knows folder sizes
-- **auto-research** — a wrapper for AI agents in social science research
+- **[auto-research](https://github.com/Felpix-Studios/auto-research)** — a wrapper for AI agents in social science research
+- **[polls.felpix.com](https://polls.felpix.com) - aggregate polling data for US elections
+- **extend-bench** - WIP engine for agentic paper replication
 - and more... 
 
 <!---
