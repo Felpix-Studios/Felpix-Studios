@@ -1,4 +1,5 @@
-writing in solitude for summer 2026. a j*bless and vibe coding time in my life.
+before agi: "philosophy? how're you gonna get a job with that?"
+after agi: "philosophy? who needs that now that we have agi?"
 
 read my [essays](https://nonpublicpolicy.substack.com) and find me on [x](https://twitter.com/felpix_).
 
